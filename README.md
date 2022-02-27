@@ -1,3 +1,4 @@
+# Medium Blog Post: https://mryelameli.medium.com/dog-breed-classification-using-cnn-b3cb5a4adaae
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
